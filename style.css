@@ -1,0 +1,14 @@
+body{
+    background: url('/images/back.jpg');
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    
+}
+
+@media(max-width:991px){
+    .sidebar{
+        background-color: rgb(235, 160, 160);
+        backdrop-filter: blur(10px);
+    }
+}
